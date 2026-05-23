@@ -1,0 +1,8 @@
+[40;31mDiablo [[40;37mDiablo Banner[40;31m]
+[40;31m!* Track [[40;37mOpens Snoopy IP Tracker[40;31m]
+[40;31m!* LANC [[40;37mOpens Lanc V2[40;31m]
+[40;31m!* Banners [[40;37mOpens Banner Options[40;31m]
+[40;31m!* Scan [[40;37mOpens Port Scanner[40;31m]
+[40;31m!* Logs [[40;37mOpens Ip Logger[40;31m]
+[40;31m!* TCP [[40;37mOpens TCP Pinger[40;31m]
+[40;31m!* Boot [[40;37mOpens Boot Options[40;31m]

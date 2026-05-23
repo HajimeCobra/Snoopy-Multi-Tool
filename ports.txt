@@ -1,0 +1,45 @@
+                    _________________
+                   |    Ports lis    |
+                   |  9307-|----------|
+                   |  9306 | PSN PORTS|
+                   |  9305-|----------|
+                   |  80   |   Home   |
+                   |  53   |    DNS   |
+                   |  68   |   DHCP   |
+                   |  67   |   DHCP   |
+                   | 8080-|    WEB   |
+                     ________________|
+          ISP Vulnerabilities
+US ISPs					Attack Method	Port
+AT&T UVerse				DNS/Chargen	53/19
+CenturyLink				Portmap	111
+Charter					Chargen	19
+Comcast Cable			Chargen/Portmap	19/111
+Cox Communications		Portmap	111
+Frontier				?	?
+Fuse Inernet			?	?
+MTS Allstream			Chargen	19
+Optimum Online			Chargen	19
+Suddenlink				Chargen	19
+Time Warner (Spectrum)	DNS/Chargen	53/19
+Canada ISPs				Attack	Port
+Bell Aliant				Chatgen	19
+Bell Canada				Portmap	111
+Rogers Cable			Portmap	111
+Videotron Ltee			NTP	123
+UK ISPs					Attack	Port
+BT						Chargen	19
+Virgin Media			Portmap	111
+Sky Broadband			Chargen	19
+
+ PORT + (21)    =  SFTP
+ PORT + (22)    =  SSH
+ PORT + (23)    =  TELNET
+ PORT + (25)    =  SMTP
+ PORT + (53)    =  DNS
+ PORT + (69)    =  TFTP
+ PORT + (80)    =  HTTP
+ PORT + (443)   =  HTTPS
+ PORT + (3074)  =  XBOX
+ PORT + (5060)  =  RTP
+ PORT + (9307)  =  PLAYSTATION

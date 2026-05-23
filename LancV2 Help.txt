@@ -1,0 +1,122 @@
+####################################################################################
+##                              By:NotJohnnySafe		    					  ##
+##     Need Help. Contact Info:[PSN:NotJohnnySafe    KiK:johnnymodding]		      ##
+##                                  Enjoy :)       							      ##
+##                       Look For Your Setup Down Bellow                          ##
+##--------------------------------------------------------------------------------##
+|                      Make Sure You Have the Dependincies                         |
+|                          <All In The LancV2 Folder>							   |
+|Have to install Winpcap4.1.3													   |
+|Have to install vcredist_ [x64<-64bit x86<-32bit]                                 |
+|Have to install dotNetFx40_Full_x86_x64										   |
+|                         ^^All In The LancV2 Folder^^                             |
+|----------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------|
+|-------------------------------#Sniffer Setups#-----------------------------------|
+|----------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------|
+|                        #How To Use ARP & Sniff On Wifi# 		    		       |
+|----------------------------------------------------------------------------------|
+|First when Starting LancV2														   |
+|Select Your Network Adapter From the Drop down box. [May Have To Try To Find It]  |
+|Turn On the ARP Spoofing 														   |
+|Select the first IP on the From and on the To select your PS4 IP.                 |
+|----------------------------------------------------------------------------------|
+|To find your PS4 IP on your PS4 go to the settings and go to Networking           |
+|Then go to View Connection Status and it will say IP Address [EXMP:192.168.X.X]   |
+|It Is located above the Subnet Mask.                                              |
+|----------------------------------------------------------------------------------|
+|                           |----------------------|                               |
+|                           |  Destination Ports:  |							   |
+|                           |    Party Port:9307   |							   |
+|                           |Game Port:9306 or 9305|                               |
+|                           |----------------------|                               |
+|                           |  Source Port:62760   |                               |
+|                           |  Source Port:61769   |                               |
+|                           |----------------------|                               |
+|Now Turn On the Filter and on the |Destination Port| Enter Any Of Those Ports.    |
+|You Can also do the |Source Port| if you like.                                    |
+|Then Click    Start                                                               |
+|And it will Start to Pull all the IP'S Available                                  |
+|If using ARP Spoofing Do Not keep it on long or it will Lag you out.              |
+|----------------------------------------------------------------------------------|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|----------------------------------------------------------------------------------|
+|---------------------------------#Other Way#--------------------------------------|
+|----------------------------------------------------------------------------------|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|----------------------------------------------------------------------------------|
+|                   #How To Sniff On VPN With Ethernet Cable#                      |
+|----------------------------------------------------------------------------------|
+|Go to your Wifi bars at the Bottom right and Right Click it with your Mouse       |
+|Now On the Left side of the Window that just opened click Network Adapters        |
+|Right Click your Wifi and click Properties                                        |
+|Now Click the Sharing Tab                                                         |
+|Check All boxes and if given the option Select Ethernet from the Drop Down Box    |
+|Now Click   Ok , Only have to do this once,can just do the next step from now on. |
+|----------------------------------------------------------------------------------|
+|Now Connect your PS4 By Using Lan Cable and let it Auto Setup                     |
+|Test the Connection.                                                              |
+|Now On LancV2																	   |
+|----------------------------------------------------------------------------------|
+|  #Select The Network Adapter<->AKA:Ethernet Controller   [May Have To Find It]#  |
+|----------------------------------------------------------------------------------|
+|                           |----------------------|                               |
+|                           |  Destination Ports:  |							   |
+|                           |    Party Port:9307   |							   |
+|                           |Game Port:9306 or 9305|                               |
+|                           |----------------------|                               |
+|                           |  Source Port:62760   |                               |
+|                           |  Source Port:61769   |                               |
+|                           |----------------------|                               |
+|Now Turn On the Filter and on the |Destination Port| Enter Any Of Those Ports.    |
+|You Can also do the |Source Port| if you like.                                    |
+|Then Click    Start                                                               |
+|And it will Start to Pull all the IP'S Available                                  |
+|----------------------------------------------------------------------------------|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|----------------------------------------------------------------------------------|
+|-----------------------------#Wireless VPN Way#-----------------------------------|
+|----------------------------------------------------------------------------------|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|----------------------------------------------------------------------------------|
+|  How To Sniff On VPN With Virtual Router Manager.<-[VRM Instructions At Bottom]  |
+|----------------------------------------------------------------------------------|
+| #Select The Network Adapter<->AKA:Windows VPN Tap Adapter [May Have To Find It]# |
+|----------------------------------------------------------------------------------|
+|                           |----------------------|                               |
+|                           |  Destination Ports:  |							   |
+|                           |    Party Port:9307   |							   |
+|                           |Game Port:9306 or 9305|                               |
+|                           |----------------------|                               |
+|                           |  Source Port:62760   |                               |
+|                           |  Source Port:61769   |                               |
+|                           |----------------------|                               |
+|Now Turn On the Filter and on the |Destination Port| Enter Any Of Those Ports.    |
+|You Can also do the |Source Port| if you like.                                    |
+|Then Click    Start                                                               |
+|And it will Start to Pull all the IP'S Available                                  |
+|----------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------|
+|-------------------------#Virtual Router Manager Setup#---------------------------|
+|----------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------|
+|                     #How To Hook Up Virtual Router Manager#                      |
+|----------------------------------------------------------------------------------|
+|Go to your Wifi bars at the Bottom right and Right Click it with your Mouse       |
+|Now On the Left side of the Window that just opened click Network Adapters        |
+|Right Click your Wifi and click Properties                                        |
+|Now Click the Sharing Tab                                                         |
+|Check All boxes and if given the option Select Ethernet from the Drop Down Box    |
+|Now Click   Ok																	   |
+|----------------------------------------------------------------------------------|
+| Download Virtual Router Manager: virtualrouter.codeplex.com/downloads/get/621827 |
+| Start Virtual Router Manager  [May Need To Search And Find It]                   |
+| Set Your Host Name And Password                                                  |
+| Then Select The Ethernet thats available in the Drop Down Box and Click Start    |
+| Now Connect your PS4 to the Wifi that is named what you named the Host Name on   |
+| the Virtual Router Manager and then Enter the Password you set on the VRM on your|
+| PS4 and let it verify and Test the Connection.                                   |
+|----------------------------------------------------------------------------------|
+##--------------------------------------------------------------------------------##
+####################################################################################
